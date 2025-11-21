@@ -133,7 +133,7 @@ const Footer = () => {
         </div>
         <div className="border-t border-slate-700 mt-8 pt-8">
           <div className="grid grid-cols-1 md:grid-cols-2 ">
-            <div className="mb-5 sm:text-center md:text-left">©Copyright ChizkyDev</div>
+            <div className="mb-5 text-center sm:text-center md:text-left">©Copyright ChizkyDev</div>
             <div className="flex items-center justify-center gap-6">
               {/* Instagram */}
               <a

@@ -108,7 +108,7 @@ function App() {
           </div>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
-              href="#"
+              href="https://drive.google.com/uc?export=download&id=1ubvLeCChOIHp8jAx0mvvJFT-ggskFEcz"
               className="bg-blue-700 p-4 rounded-2xl hover:bg-blue-600"
             >
               Downdload CV <i className="ri-download-line ri-lg"></i>
@@ -143,13 +143,13 @@ function App() {
               <img
                 src="/foto/a2.jpg"
                 alt="Foto 2"
-                className="w-30 h-100 rounded-md object-cover"
+                className="w-20 sm:w-30 h-100 rounded-md object-cover"
                 loading="lazy"
               />
               <img
                 src="/foto/a3.jpg"
                 alt="Foto 3"
-                className="w-full h-100 rounded-md object-cover "
+                className="w-30 h-100 sm:w-full sm:h-100 rounded-md object-cover "
                 loading="lazy"
               />
             </div>
